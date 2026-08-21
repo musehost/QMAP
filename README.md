@@ -4,7 +4,7 @@
 # QMAP v3.1 - Quantum Collapse with Bounce
 **Author:** Benjamin Langston Cortes - Tijuana, Mexico
 **ORCID:** 0009-0004-3645-9824
-**Main DOI:** 10.5281/zenodo.21963408
+**Main DOI:** 10.5281/zenodo.22039005
 **License:** PROPRIETARY - ALL RIGHTS RESERVED - See LICENSE file
 
 ## Official Zenodo DOI Registry - 11 Protected Works
